@@ -1,0 +1,7 @@
+{
+  "name": "Sulingo",
+  "description": "An interactive English learning application featuring a dynamic AI avatar tutor, real-time pronunciation scoring, and conversational practice.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
